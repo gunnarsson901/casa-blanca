@@ -31,9 +31,16 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
+#menu ul {
+    display: flex;
+    flex-direction:row;
+    float: right;
+}
+
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
     text-decoration: none;
 }
+
