@@ -112,10 +112,31 @@ h1, h2 {
     height: 200px;
     padding-top: 30px;
     padding-left: 10px;
-    border-radius: 5px;
+    border-radius: 20px;
     background-color: rgba(97, 133, 212, 0.586);
 /* position */
     bottom: 30px;
     right: 30px;
     position: absolute;
+}
+
+#activities {
+    height: 500px;
+}
+
+#left-about {
+    width: 33%;
+    float: left;
+    padding-top: 30px;
+}
+
+#right-about {
+    width: 33%;
+    float: right;
+    padding-top: 30px;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
 }
