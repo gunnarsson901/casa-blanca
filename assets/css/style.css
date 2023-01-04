@@ -31,6 +31,10 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
+#menu, #logo {
+    line-height: 75px;
+}
+
 #menu ul {
     display: flex;
     flex-direction:row;
@@ -44,3 +48,28 @@ h1, h2 {
     text-decoration: none;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 3px solid black;
+}
+
+.active {
+    border-bottom: 3px solid black;
+}
+
+.bookroom {
+    background-color: rgb(17, 130, 17);
+    padding: 5px;
+    color:aliceblue;
+    border-radius: 3px;
+}
+
+#hero-img {
+    height: 600px;
+    width: 100%;
+    background: url(../images/lighthouse-g7993a6f45_1920.jpg) no-repeat center center;
+}
