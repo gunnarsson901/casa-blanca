@@ -2,13 +2,6 @@
 
 Casa Blanca is a site designed to provide information about a hostel located in Penich, Portugal. The site is targeted towards travelers that are intrested in sports or looking to volunteer. This site will be useful for travelers to see what rooms are available and what activities are available.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -18,52 +11,53 @@ In this section, you should go over the different parts of your project, and des
 
   - Book Room is highlighted to catch the users attention. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+[navigation](https://user-images.githubusercontent.com/69460475/211000085-e245a175-941f-4c43-a504-ecc70d42936b.png)
 
 - __The landing page image__
 
   - The landing page introduces the user to the site with a colorful image of the hostel outside with an overlay text.
 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![hero](https://user-images.githubusercontent.com/69460475/210999031-e986dc09-1e3d-4ffc-9207-c046b8e8f729.png)
 
 - __Activities Section__
 
   - The activities section gives the user an overview of the diffrent sports that are available. 
   - All activities are presented in a manner that gives the user an overview of prizeing and prerequesets. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![active](https://user-images.githubusercontent.com/69460475/211000018-95e32579-8499-4055-96b1-9ebf31802a97.png)
 
 - __Room section__
 
   - This section gives users a preview of diffrent rooms available in Casa blanca and how many people fit in a room.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![our rooms](https://user-images.githubusercontent.com/69460475/210999632-d6789f09-4343-42f5-90df-40d7ef1b0203.png)
 
 - __The Footer__ 
 
   - The footer presents diffrent social media platforms.
   - An about us and contact information is present to encourage a user to engage with us once they have reached the bottom of the page.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
+![footer](https://user-images.githubusercontent.com/69460475/211000047-dd5c9694-98c7-4188-8582-95aad6a450dc.png)
 
 - __The Contact Us Page__
 
   - This page is more detailed than the footer contact section, it introduces the user to the main personal working at the company.
   - Avatars are placed to give the user a sence of personality.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![contact](https://user-images.githubusercontent.com/69460475/211000565-bd6daafc-5ecb-4c74-abc9-4373ff9c4401.png)
 
 - __The Volunteer Page__
 
 - This page lets volunteers apply a form
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![volunteer](https://user-images.githubusercontent.com/69460475/211000670-ceee6caa-b094-4420-b219-9572332d8965.png)
 
 - __The Book Room Page__
 
 - This page lets potential guests fill in the information for the booking and displays the diffrent rooms Casa Blanca has to offer
+
+![booking](https://user-images.githubusercontent.com/69460475/211000917-8df09bad-0139-4a1e-a9f4-7b3050dcf630.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -109,16 +103,10 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The text for the about us was inspired by 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
@@ -126,22 +114,4 @@ You can break the credits section up into Content and Media, depending on what y
 - The photos for the landing image and room section are from [this source](https://planetofhotels.com/en/portugal/peniche/casa-blanca)
 
 - The avatars used  in the contact us page are from [this source](https://iconscout.com/illustration/man-with-unique-hair-style-2372201) and [this source](https://iconscout.com/illustration/curly-hair-man-holding-smartphone-2372183)
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- 
